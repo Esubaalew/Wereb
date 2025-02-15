@@ -20,24 +20,7 @@ A Python script to download liturgical music files from the Ethiopian Orthodox C
   pip install requests beautifulsoup4 tqdm
   ```
 
-## Installation
 
-1. Clone repository:
-   ```bash
-   git clone https://github.com/yourusername/church-music-downloader.git
-   cd church-music-downloader
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-```bash
-python download_script.py
-```
 
 The script will:
 1. Connect to [target website](https://www.ethiopianorthodox.org/churchmusic/zema%20timehert%20bet/wereb%20keamet%20eske%20amet.html)
