@@ -1,4 +1,4 @@
-# Ethiopian Orthodox Church Toolkit(Subject to update - readme expails the available version not the future)
+# Ethiopian Orthodox Church Toolkit(Subject to Updates – Refer to the README for the Current Version, Not Future Releases)
 
 A Python script to download liturgical music files from the Ethiopian Orthodox Church website while preserving directory structure and using meaningful filenames.
 
