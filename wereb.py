@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 from tqdm import tqdm
 
 # Configuration
-base_url = 'https://www.ethiopianorthodox.org/churchmusic/zema%20timehert%20bet/wereb%20keamet%20eske%20amet.html'
+base_url = ''
 target_folder = 'wereb'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
